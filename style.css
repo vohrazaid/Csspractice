@@ -5,3 +5,38 @@ body{
     background-position: center;
     background-size: cover; */
 }
+
+h5{
+    color: brown;
+}
+
+#testing-para1{
+    color: chartreuse;
+    size: 10px;
+}
+
+.font-apply{
+    font-size: 60px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: olive;
+    background-color: white;
+}
+
+.apply-all-ftd{
+    size: 30px;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.play-with-letter{
+    color: coral;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.background{
+    background-color: blueviolet;
+}
