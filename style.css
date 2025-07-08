@@ -63,6 +63,7 @@ ul{
  #netflix{
    color: brown;
    font-size: 40px;
+   text-align: right;
  }
  
 
@@ -74,6 +75,7 @@ ul{
     word-spacing: 8px;
     color: gold;
     background-color: black;
+    
 }
 
 /*text-align: left;*/
@@ -82,4 +84,6 @@ ul{
 /*text-transform: capitalize;*/
 /*text-transform: None;*/
 
-
+.name{
+    text-align:right ;
+}
