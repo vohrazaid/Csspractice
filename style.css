@@ -15,13 +15,28 @@ h5{
     size: 10px;
 }
 
+#decoration-apply{
+    text-decoration: wavy;
+    text-decoration: underline;
+}
+
+
+
+
+
 .font-apply{
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 500;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
     color: olive;
     background-color: white;
+}
+
+ul{
+    color: dodgerblue;
+    font-size: 30px;
+
 }
 
 .apply-all-ftd{
@@ -38,5 +53,30 @@ h5{
 }
 
 .background{
-    background-color: blueviolet;
+    background-color: blueviolet; 
+    font-size: 30px;
+
 }
+
+#list-apply{
+    color: chartreuse;
+    background-color: aqua;
+    size: 30px;
+}
+
+ #netflix{
+   color: brown;
+   font-size: 40px;
+ }
+ 
+
+#one{
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    line-height: 25px;
+    word-spacing: 8px;
+    color: gold;
+}
+
+
