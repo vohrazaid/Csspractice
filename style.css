@@ -16,14 +16,10 @@ h5{
 }
 
 #decoration-apply{
-    text-decoration: wavy;
+    font-size: 20px;
     text-decoration: underline;
+    text-decoration-color: aquamarine;
 }
-
-
-
-
-
 .font-apply{
     font-size: 40px;
     font-weight: 500;
@@ -77,6 +73,7 @@ ul{
     line-height: 25px;
     word-spacing: 8px;
     color: gold;
+    background-color: black;
 }
 
 
