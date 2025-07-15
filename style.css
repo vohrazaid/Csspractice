@@ -42,7 +42,7 @@ ul{
 
 }
 
-.play-with-letter{
+.change-w{
     color: coral;
     font-style: italic;
     font-weight: 600;
@@ -87,3 +87,45 @@ ul{
 .name{
     text-align:right ;
 }
+
+.change-w{
+    color: red;
+    text-transform: uppercase;
+    
+}
+
+.play-with-letter{
+    font-size: 50px;
+}
+
+div.one{
+    opacity: 0.1;
+}
+
+div.two{
+    opacity: 0.3;
+}
+
+div.three{
+    opacity: 0.5;
+}
+
+div.color{
+    background-color: aquamarine;
+}
+
+.border-property{
+    border-radius: 10px;
+    border-color: rgb(180, 80, 80);
+    border-width: 2px;
+    border-style: solid;
+    /* border: 10px red solid; */
+}
+
+.alpha{
+   border-color: chartreuse;
+   border-radius: 10px;
+   border-width: 2px;
+   border-style: solid;
+}
+
